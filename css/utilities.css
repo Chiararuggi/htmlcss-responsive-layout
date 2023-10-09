@@ -24,7 +24,9 @@
 .f-size30px{font-size: 30px;}
 .f-size33px{font-size: 33px;}
 .f-size35px{font-size: 35px;}
+.f-size40px{font-size: 40px;}
 .f-size50px{font-size: 50px;}
+.f-size60px{font-size: 60px;}
 .f-size1rem{font-size: 1rem;}
 .f-size2rem{font-size: 2rem;}
 .f-size7rem{font-size: 7rem;}
@@ -38,9 +40,8 @@
 
 /*line height*/
 
-.l-height1-5{
-    line-height: 1.5;
-}
+.l-height1-5{line-height: 1.5;}
+.l-height2{line-height: 2;}
 
 /*letter spacing*/
 
@@ -72,6 +73,7 @@
 
 .margin-b2rem{margin-bottom: 2rem;}
 .margin-b3rem{margin-bottom: 3rem;}
+.margin-b5rem{margin-bottom: 5rem;}
 
 /*margin bottom*/
 
@@ -80,6 +82,7 @@
 /*padding*/
 
 .padding1rem{padding: 1rem;}
+.padding05-2rem{padding:0.5rem 2rem;}
 .padding1-2rem{padding: 1rem 2rem;}
 .padding1-4rem{padding: 1rem 4rem;}
 .padding1-5remf{padding: 1.5rem;}
