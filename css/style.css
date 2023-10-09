@@ -9,10 +9,13 @@
     display: none;
 }
 
-
 .row{
     display: flex;
-    justify-content: space-between;
+}
+
+.col{
+    display: flex;
+    flex-direction: column;
 }
 
 .logo-box img{
@@ -21,4 +24,16 @@
 
 .menu-box{
     padding: 1em;
+}
+
+.panel-container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.first-panel-button{
+    margin-top: 3vh;
+    text-align: center;
+    word-spacing: 5px;
+    letter-spacing: 3px;
 }
