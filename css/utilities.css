@@ -1,0 +1,16 @@
+/*bg*/
+
+.bg-blue{
+    background-color: #0084FD;
+}
+
+/*color*/
+
+.c-white{
+    color: white;
+}
+
+/*font-size*/
+.f-size2rem{
+    font-size: 2rem;
+}
