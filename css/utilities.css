@@ -11,6 +11,7 @@
 .c-blue{color: #0084FD;}
 .c-grey{color: #58768f;}
 .c-black{color: black;}
+.c-lilac{color: #9792E4;}
 
 /*font-size*/
 
@@ -20,6 +21,8 @@
 .f-size20px{font-size: 20px;}
 .f-size22px{font-size: 22px;}
 .f-size28px{font-size: 28px;}
+.f-size30px{font-size: 30px;}
+.f-size33px{font-size: 33px;}
 .f-size35px{font-size: 35px;}
 .f-size1rem{font-size: 1rem;}
 .f-size2rem{font-size: 2rem;}
@@ -49,6 +52,7 @@
 /*margin*/
 
 .margin-auto{margin: 0 auto}
+.margin-2rem-auto{margin: 2rem auto}
 
 /*margin top*/
 
@@ -69,6 +73,7 @@
 .padding2-1rem{padding: 2rem 1rem;}
 .padding2rem{padding: 2rem;}
 .padding1-1-3rem{padding:1rem 1rem 3rem;}
+.padding3rem{padding: 3rem;}
 
 /*border radius*/
 
@@ -89,3 +94,9 @@
 /*align-items*/
 
 .align-center{align-items: center;}
+
+/*text-align*/
+
+.text-center{
+    text-align: center;
+}
