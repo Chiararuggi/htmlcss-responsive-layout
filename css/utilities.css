@@ -4,6 +4,7 @@
 .bg-lightblue{background-color: #B5DDFF;}
 .bg-lilac{background-color:#9792E4;}
 .bg-white{background-color:white;}
+.bg-black{background-color:#333333;}
 
 /*color*/
 
@@ -84,17 +85,21 @@
 /*padding*/
 
 .padding1rem{padding: 1rem;}
+.padding2rem{padding: 2rem;}
+.padding3rem{padding: 3rem;}
 .padding05-2rem{padding:0.5rem 2rem;}
 .padding1-2rem{padding: 1rem 2rem;}
 .padding1-4rem{padding: 1rem 4rem;}
 .padding1-5remf{padding: 1.5rem;}
 .padding2-1rem{padding: 2rem 1rem;}
-.padding2rem{padding: 2rem;}
 .padding1-1-3rem{padding:1rem 1rem 3rem;}
-.padding3rem{padding: 3rem;}
 .padding4-0-2-0rem{padding:4rem 0rem 2rem 0rem;}
 .padding2-0-2-0rem{padding:2rem 0rem 2rem 0rem;}
 .padding2-0-5-0rem{padding:2rem 0rem 5rem 0rem;}
+.padding4-0-5-0rem{padding:4rem 0rem 5rem 0rem;}
+
+/*padding bottom*/
+.padding-b3rem{padding-bottom: 3rem;}
 
 /*border radius*/
 
