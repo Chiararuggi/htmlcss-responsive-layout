@@ -12,9 +12,11 @@
 .c-grey{color: #58768f;}
 .c-black{color: black;}
 .c-lilac{color: #9792E4;}
+.c-yellow{color:#FDC15F;}
 
 /*font-size*/
 
+.f-size5px{font-size: 5px;}
 .f-size12px{font-size: 12px;}
 .f-size15px{font-size: 15px;}
 .f-size18px{font-size: 18px;}
@@ -26,7 +28,9 @@
 .f-size35px{font-size: 35px;}
 .f-size40px{font-size: 40px;}
 .f-size50px{font-size: 50px;}
+.f-size55px{font-size: 55px;}
 .f-size60px{font-size: 60px;}
+.f-size70px{font-size: 70px;}
 .f-size1rem{font-size: 1rem;}
 .f-size2rem{font-size: 2rem;}
 .f-size7rem{font-size: 7rem;}
@@ -45,9 +49,7 @@
 
 /*letter spacing*/
 
-.l-spacing3px{
-    letter-spacing: 3px;
-}
+.l-spacing3px{letter-spacing: 3px;}
 
 /*width*/
 
@@ -90,6 +92,9 @@
 .padding2rem{padding: 2rem;}
 .padding1-1-3rem{padding:1rem 1rem 3rem;}
 .padding3rem{padding: 3rem;}
+.padding4-0-2-0rem{padding:4rem 0rem 2rem 0rem;}
+.padding2-0-2-0rem{padding:2rem 0rem 2rem 0rem;}
+.padding2-0-5-0rem{padding:2rem 0rem 5rem 0rem;}
 
 /*border radius*/
 
