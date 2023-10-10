@@ -99,6 +99,14 @@
         position: absolute;
         left: 10rem;
     }
+
+        .first-panel-1col h3{
+        text-align: center;
+    }
+
+    .first-panel-1col p{
+        text-align: center;
+    }
 }
 
 /*Media Query: Tablet*/
@@ -119,6 +127,14 @@
 
     .first-panel-2col{
         width:35%;
+    }
+
+    .first-panel-1col h3{
+        text-align: center;
+    }
+
+    .first-panel-1col p{
+        text-align: center;
     }
 
     /*first panel: second row col*/
@@ -183,6 +199,38 @@
 
 
 @media screen and (min-width:992px) {
+
+    /*first panel*/
+
+    .first-panel-1col{
+        display: flex;
+        flex-direction: row;
+        width:65%
+    }
+
+    .first-panel-2col{
+        width: 30%;
+    }
+
+    .first-panel-1col img{
+        max-width: 20rem;
+        align-self: flex-end;
+    }
+
+    .col-first-panel{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .first-panel-1col h3{
+        text-align: left;
+    }
+
+    .first-panel-1col p{
+        text-align: left;
+    }
+
+
 
     /*fourth panel*/
 
