@@ -192,6 +192,7 @@
 
     .fourth-panel-row{
         justify-content: space-around;
+        width:80%
     }
 
 }
