@@ -180,3 +180,18 @@
         left: 10rem;
     }
 }
+
+
+@media screen and (min-width:992px) {
+
+    /*fourth panel*/
+
+    .fourth-panel-card{
+        width: 30%;
+    }
+
+    .fourth-panel-row{
+        justify-content: space-around;
+    }
+
+}
