@@ -82,7 +82,13 @@
 
 
 @media screen and (min-width:0px)
-{
+{   
+    /*second panel*/
+
+    .second-panel-col2{
+        width: 100%;
+    }
+
     /*fourth panel*/
 
     .fourth-panel-card{
@@ -141,6 +147,12 @@
 
     .first-panel-2rowcol{
         width:30%;
+    }
+
+    /*second panel*/
+
+    .second-panel-col2{
+        width: 100%;
     }
 
     /*third panel*/
@@ -205,7 +217,7 @@
     .first-panel-1col{
         display: flex;
         flex-direction: row;
-        width:65%
+        width:65%;
     }
 
     .first-panel-2col{
@@ -230,7 +242,29 @@
         text-align: left;
     }
 
+    /*second panel*/
 
+    .second-panel-col1{
+        width: 60%;
+    }
+
+    .planning1{
+        max-width: 30rem;
+    }
+
+    .second-panel-col2{
+        width: 30%;
+    }
+
+    .planning2{
+        max-width: 18rem;
+    }
+
+    .planning-text{
+        width:60%;
+    }
+   
+   
 
     /*fourth panel*/
 
